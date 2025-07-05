@@ -1,0 +1,1 @@
+export const myApi='c25966f791b805001c73b642f743ff9c';
